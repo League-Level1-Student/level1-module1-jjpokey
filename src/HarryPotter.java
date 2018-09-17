@@ -11,6 +11,7 @@
 		// 5. cast a “stupefy” spell
 
 
+
 public class HarryPotter {
 
 	private boolean cloakOn;
